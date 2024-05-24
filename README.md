@@ -7,7 +7,7 @@ A aplicação permite aos usuários adicionar, editar, marcar como comprados e r
 
 ## Tecnologias Utilizadas
 ### Angular
-- Framework principal para a construção da interface do usuário.
+- Framework principal para a construção da interface.
 
 ### TypeScript
 - Linguagem utilizada para o desenvolvimento de scripts e funcionalidades.
